@@ -15,87 +15,53 @@ The course offers 6 credits, each of 30 hours.
 
 # Course Outline:
 
-# Introduction to Python
+# Introduction to Linear Algebra
 
-- History of Python
-- Installation and Setup of Python
-- Basic Python Syntax
-- Variables, Constants, and Data Types
-- Basic Input and Output Operations
+- Scalars, Vectors, and Matrices
+- Matrix Operations
+- Linear Transformations
+- Determinants and Inverses
+- Systems of Linear Equations
 
-# Control Structures
+# Vector Spaces and Linear Transformations
 
-- Conditionals
-- Loops
-- Break, Continue, and Pass Statements
+- Vector Spaces and Subspaces
+- Basis and Dimension
+- Linear Independence and Span
+- Orthogonality
+- Eigenvalues and Eigenvectors
 
-# Functions and Modules
+# Calculus
 
-- Function Definition and Syntax
-- Scope and Lifetime of Variables
-- Arguments and Parameters
-- Anonymous Functions and Lambda
-- Built-in Functions and Libraries
-- Modules and Packages
+- Limits and Continuity
+- Derivatives and Differentiation
+- Applications of Differentiation
+- Integration and Antiderivatives
+- Applications of Integration
 
-# File Handling
+# Probability
 
-- File I/O Operations
-- Text and Binary Files
-- File Methods
-- Exception Handling
+- Basic Concepts and Definitions
+- Probability Rules
+- Conditional Probability and Independence
+- Random Variables
+- Probability Distributions
 
-# Data Structures
+# Statistics
 
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-
-# Object-Oriented Programming
-
-- Classes and Objects
-- Encapsulation and Abstraction
-- Inheritance and Polymorphism
-- Advanced Topics
-
-# Introduction to NumPy
-
-- Creating and Manipulating Arrays
-- Indexing and Slicing
-- Broadcasting
-- Mathematical Functions
-- Statistical Functions
-
-# Introduction to Pandas
-
-- Series and DataFrames
-- Indexing and Slicing
-- Operations and Aggregation
-- Merging and Grouping
-- Handling Missing Data
-
-# Introduction to Matplotlib
-
-- Basic Plots and Visualizations
-- Multiple Plots and Subplots
-- Customizing Plots
-- 3D Plots
-
-# Advanced Python Libraries
-
-- Scikit-learn
-- TensorFlow
-- OpenCV
+- Descriptive Statistics
+- Inferential Statistics
+- Hypothesis Testing
+- Estimation and Confidence Intervals
+- Regression Analysis
 
 # Projects Ideas for Practice:
 
-- Building a Tic Tac Toe Game
-- Developing a Simple Web Application using Flask
-- Analyzing Data with NumPy and Pandas
-- Building a Machine Learning Model with Scikit-learn
-- Creating a Neural Network with TensorFlow
-- Building an Image Recognition System with OpenCV
+- Implementing Linear Regression using Gradient Descent Algorithm
+- Developing a Monte Carlo Simulation to Estimate Pi
+- Analyzing a Real-World Dataset using Regression Analysis
+- Developing a Bayesian Classifier to Classify Images
+- Building a Neural Network to Recognize Handwritten Digits
 
 # Conclusion:
 
